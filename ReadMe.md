@@ -14,5 +14,5 @@ ASP.NET WEB API project for demonstrating concert ticket reservation.
 - Paid Tickets are called Orders
 
 ## Current status
-- Event APIs are completed 
-
+- All API for Event, TicketType, Reservation, and Order are complete as per requirement.
+- Scope of improvement as it's done in limited time.
